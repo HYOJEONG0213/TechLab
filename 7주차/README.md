@@ -1,4 +1,4 @@
-# Tech Lab 5주차 (Let There Be Light)
+# Tech Lab 7주차 (Let There Be Light)
 
 ## 🎮 Let There Be Light
 

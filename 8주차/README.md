@@ -1,6 +1,8 @@
-# Tech Lab 8주차 (Brute Force Competition)
+# Tech Lab 8주차 (Where there is light, there is also shadow)
 
-## 🎮 Let There Be Light
+
+## 🎮 Where there is light, there is also shadow
+
 
 **제작 기간**: 2026.10.15 ~ 2026.10.22 (7일)
 

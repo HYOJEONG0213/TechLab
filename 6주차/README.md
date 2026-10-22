@@ -1,4 +1,4 @@
-# Tech Lab 5주차 (Editor Mode and PIE (Play In Editor) Mode, Clearing the Fog)
+# Tech Lab 6주차 (Editor Mode and PIE (Play In Editor) Mode, Clearing the Fog)
 
 ## 🎮 Editor Mode and PIE (Play In Editor) Mode, Clearing the Fog
 
